@@ -25,6 +25,7 @@ enable=1
 type=3
 container=1
 codec=1
+enc-type=1
 sync=0
 bitrate=4000000
 output-file=output_yolov13.mp4
