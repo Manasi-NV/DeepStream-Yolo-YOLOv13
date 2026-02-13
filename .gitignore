@@ -1,0 +1,26 @@
+# Model weights and engines
+*.pt
+*.onnx
+*.onnx.data
+*.engine
+*.calib
+calib.table
+
+# Output video
+output_*.mp4
+
+# YOLOv13 repo (cloned at runtime)
+yolov13/
+
+# DeepStream-Yolo repo (cloned at runtime)
+DeepStream-Yolo/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
