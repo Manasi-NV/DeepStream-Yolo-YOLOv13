@@ -2,11 +2,6 @@
 
 Run **YOLOv13** object detection using [NVIDIA DeepStream SDK 8.0](https://developer.nvidia.com/deepstream-sdk) and [DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo).
 
-## Prerequisites
-
-- NVIDIA GPU with drivers installed
-- Docker with NVIDIA Container Toolkit (`nvidia-docker`)
-- ~40 GB disk space (Docker image + model files)
 
 ## Quick Start
 
